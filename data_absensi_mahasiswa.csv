@@ -1,0 +1,481 @@
+Tanggal,NIM,Nama,Mata Kuliah,Pertemuan,Status
+2026-09-07,2410101,Ahmad Fauzi,Sistem Informasi Manajemen,1,Alpha
+2026-09-07,2410102,Siti Nurhaliza,Sistem Informasi Manajemen,1,Sakit
+2026-09-07,2410103,Budi Santoso,Sistem Informasi Manajemen,1,Hadir
+2026-09-07,2410104,Dewi Lestari,Sistem Informasi Manajemen,1,Hadir
+2026-09-07,2410105,Rizky Pratama,Sistem Informasi Manajemen,1,Hadir
+2026-09-07,2410106,Putri Ayu,Sistem Informasi Manajemen,1,Hadir
+2026-09-07,2410107,Dimas Saputra,Sistem Informasi Manajemen,1,Hadir
+2026-09-07,2410108,Nadia Rahma,Sistem Informasi Manajemen,1,Izin
+2026-09-07,2410109,Fajar Nugroho,Sistem Informasi Manajemen,1,Sakit
+2026-09-07,2410110,Anisa Fitri,Sistem Informasi Manajemen,1,Hadir
+2026-09-07,2410111,Reza Mahendra,Sistem Informasi Manajemen,1,Hadir
+2026-09-07,2410112,Salsabila Putri,Sistem Informasi Manajemen,1,Hadir
+2026-09-07,2410113,Agus Setiawan,Sistem Informasi Manajemen,1,Izin
+2026-09-07,2410114,Intan Permata,Sistem Informasi Manajemen,1,Hadir
+2026-09-07,2410115,Yoga Prakoso,Sistem Informasi Manajemen,1,Hadir
+2026-09-07,2410116,Maya Sari,Sistem Informasi Manajemen,1,Alpha
+2026-09-07,2410117,Hendra Wijaya,Sistem Informasi Manajemen,1,Hadir
+2026-09-07,2410118,Laila Kamila,Sistem Informasi Manajemen,1,Hadir
+2026-09-07,2410119,Bagas Firmansyah,Sistem Informasi Manajemen,1,Hadir
+2026-09-07,2410120,Citra Dewanti,Sistem Informasi Manajemen,1,Sakit
+2026-09-09,2410101,Ahmad Fauzi,Basis Data,1,Hadir
+2026-09-09,2410102,Siti Nurhaliza,Basis Data,1,Hadir
+2026-09-09,2410103,Budi Santoso,Basis Data,1,Hadir
+2026-09-09,2410104,Dewi Lestari,Basis Data,1,Hadir
+2026-09-09,2410105,Rizky Pratama,Basis Data,1,Hadir
+2026-09-09,2410106,Putri Ayu,Basis Data,1,Hadir
+2026-09-09,2410107,Dimas Saputra,Basis Data,1,Hadir
+2026-09-09,2410108,Nadia Rahma,Basis Data,1,Alpha
+2026-09-09,2410109,Fajar Nugroho,Basis Data,1,Hadir
+2026-09-09,2410110,Anisa Fitri,Basis Data,1,Hadir
+2026-09-09,2410111,Reza Mahendra,Basis Data,1,Sakit
+2026-09-09,2410112,Salsabila Putri,Basis Data,1,Hadir
+2026-09-09,2410113,Agus Setiawan,Basis Data,1,Alpha
+2026-09-09,2410114,Intan Permata,Basis Data,1,Hadir
+2026-09-09,2410115,Yoga Prakoso,Basis Data,1,Hadir
+2026-09-09,2410116,Maya Sari,Basis Data,1,Sakit
+2026-09-09,2410117,Hendra Wijaya,Basis Data,1,Hadir
+2026-09-09,2410118,Laila Kamila,Basis Data,1,Hadir
+2026-09-09,2410119,Bagas Firmansyah,Basis Data,1,Hadir
+2026-09-09,2410120,Citra Dewanti,Basis Data,1,Izin
+2026-09-11,2410101,Ahmad Fauzi,Pemrograman Web,1,Alpha
+2026-09-11,2410102,Siti Nurhaliza,Pemrograman Web,1,Hadir
+2026-09-11,2410103,Budi Santoso,Pemrograman Web,1,Hadir
+2026-09-11,2410104,Dewi Lestari,Pemrograman Web,1,Hadir
+2026-09-11,2410105,Rizky Pratama,Pemrograman Web,1,Hadir
+2026-09-11,2410106,Putri Ayu,Pemrograman Web,1,Izin
+2026-09-11,2410107,Dimas Saputra,Pemrograman Web,1,Hadir
+2026-09-11,2410108,Nadia Rahma,Pemrograman Web,1,Sakit
+2026-09-11,2410109,Fajar Nugroho,Pemrograman Web,1,Hadir
+2026-09-11,2410110,Anisa Fitri,Pemrograman Web,1,Alpha
+2026-09-11,2410111,Reza Mahendra,Pemrograman Web,1,Alpha
+2026-09-11,2410112,Salsabila Putri,Pemrograman Web,1,Hadir
+2026-09-11,2410113,Agus Setiawan,Pemrograman Web,1,Hadir
+2026-09-11,2410114,Intan Permata,Pemrograman Web,1,Hadir
+2026-09-11,2410115,Yoga Prakoso,Pemrograman Web,1,Hadir
+2026-09-11,2410116,Maya Sari,Pemrograman Web,1,Hadir
+2026-09-11,2410117,Hendra Wijaya,Pemrograman Web,1,Hadir
+2026-09-11,2410118,Laila Kamila,Pemrograman Web,1,Hadir
+2026-09-11,2410119,Bagas Firmansyah,Pemrograman Web,1,Hadir
+2026-09-11,2410120,Citra Dewanti,Pemrograman Web,1,Hadir
+2026-09-14,2410101,Ahmad Fauzi,Sistem Informasi Manajemen,2,Hadir
+2026-09-14,2410102,Siti Nurhaliza,Sistem Informasi Manajemen,2,Hadir
+2026-09-14,2410103,Budi Santoso,Sistem Informasi Manajemen,2,Izin
+2026-09-14,2410104,Dewi Lestari,Sistem Informasi Manajemen,2,Hadir
+2026-09-14,2410105,Rizky Pratama,Sistem Informasi Manajemen,2,Hadir
+2026-09-14,2410106,Putri Ayu,Sistem Informasi Manajemen,2,Hadir
+2026-09-14,2410107,Dimas Saputra,Sistem Informasi Manajemen,2,Hadir
+2026-09-14,2410108,Nadia Rahma,Sistem Informasi Manajemen,2,Hadir
+2026-09-14,2410109,Fajar Nugroho,Sistem Informasi Manajemen,2,Hadir
+2026-09-14,2410110,Anisa Fitri,Sistem Informasi Manajemen,2,Hadir
+2026-09-14,2410111,Reza Mahendra,Sistem Informasi Manajemen,2,Hadir
+2026-09-14,2410112,Salsabila Putri,Sistem Informasi Manajemen,2,Hadir
+2026-09-14,2410113,Agus Setiawan,Sistem Informasi Manajemen,2,Hadir
+2026-09-14,2410114,Intan Permata,Sistem Informasi Manajemen,2,Alpha
+2026-09-14,2410115,Yoga Prakoso,Sistem Informasi Manajemen,2,Hadir
+2026-09-14,2410116,Maya Sari,Sistem Informasi Manajemen,2,Alpha
+2026-09-14,2410117,Hendra Wijaya,Sistem Informasi Manajemen,2,Hadir
+2026-09-14,2410118,Laila Kamila,Sistem Informasi Manajemen,2,Alpha
+2026-09-14,2410119,Bagas Firmansyah,Sistem Informasi Manajemen,2,Hadir
+2026-09-14,2410120,Citra Dewanti,Sistem Informasi Manajemen,2,Alpha
+2026-09-16,2410101,Ahmad Fauzi,Basis Data,2,Hadir
+2026-09-16,2410102,Siti Nurhaliza,Basis Data,2,Alpha
+2026-09-16,2410103,Budi Santoso,Basis Data,2,Hadir
+2026-09-16,2410104,Dewi Lestari,Basis Data,2,Hadir
+2026-09-16,2410105,Rizky Pratama,Basis Data,2,Hadir
+2026-09-16,2410106,Putri Ayu,Basis Data,2,Hadir
+2026-09-16,2410107,Dimas Saputra,Basis Data,2,Hadir
+2026-09-16,2410108,Nadia Rahma,Basis Data,2,Hadir
+2026-09-16,2410109,Fajar Nugroho,Basis Data,2,Hadir
+2026-09-16,2410110,Anisa Fitri,Basis Data,2,Hadir
+2026-09-16,2410111,Reza Mahendra,Basis Data,2,Hadir
+2026-09-16,2410112,Salsabila Putri,Basis Data,2,Hadir
+2026-09-16,2410113,Agus Setiawan,Basis Data,2,Hadir
+2026-09-16,2410114,Intan Permata,Basis Data,2,Sakit
+2026-09-16,2410115,Yoga Prakoso,Basis Data,2,Hadir
+2026-09-16,2410116,Maya Sari,Basis Data,2,Hadir
+2026-09-16,2410117,Hendra Wijaya,Basis Data,2,Alpha
+2026-09-16,2410118,Laila Kamila,Basis Data,2,Hadir
+2026-09-16,2410119,Bagas Firmansyah,Basis Data,2,Hadir
+2026-09-16,2410120,Citra Dewanti,Basis Data,2,Alpha
+2026-09-18,2410101,Ahmad Fauzi,Pemrograman Web,2,Hadir
+2026-09-18,2410102,Siti Nurhaliza,Pemrograman Web,2,Hadir
+2026-09-18,2410103,Budi Santoso,Pemrograman Web,2,Hadir
+2026-09-18,2410104,Dewi Lestari,Pemrograman Web,2,Hadir
+2026-09-18,2410105,Rizky Pratama,Pemrograman Web,2,Hadir
+2026-09-18,2410106,Putri Ayu,Pemrograman Web,2,Hadir
+2026-09-18,2410107,Dimas Saputra,Pemrograman Web,2,Hadir
+2026-09-18,2410108,Nadia Rahma,Pemrograman Web,2,Hadir
+2026-09-18,2410109,Fajar Nugroho,Pemrograman Web,2,Hadir
+2026-09-18,2410110,Anisa Fitri,Pemrograman Web,2,Sakit
+2026-09-18,2410111,Reza Mahendra,Pemrograman Web,2,Hadir
+2026-09-18,2410112,Salsabila Putri,Pemrograman Web,2,Hadir
+2026-09-18,2410113,Agus Setiawan,Pemrograman Web,2,Hadir
+2026-09-18,2410114,Intan Permata,Pemrograman Web,2,Hadir
+2026-09-18,2410115,Yoga Prakoso,Pemrograman Web,2,Hadir
+2026-09-18,2410116,Maya Sari,Pemrograman Web,2,Hadir
+2026-09-18,2410117,Hendra Wijaya,Pemrograman Web,2,Hadir
+2026-09-18,2410118,Laila Kamila,Pemrograman Web,2,Alpha
+2026-09-18,2410119,Bagas Firmansyah,Pemrograman Web,2,Hadir
+2026-09-18,2410120,Citra Dewanti,Pemrograman Web,2,Hadir
+2026-09-21,2410101,Ahmad Fauzi,Sistem Informasi Manajemen,3,Hadir
+2026-09-21,2410102,Siti Nurhaliza,Sistem Informasi Manajemen,3,Hadir
+2026-09-21,2410103,Budi Santoso,Sistem Informasi Manajemen,3,Hadir
+2026-09-21,2410104,Dewi Lestari,Sistem Informasi Manajemen,3,Hadir
+2026-09-21,2410105,Rizky Pratama,Sistem Informasi Manajemen,3,Izin
+2026-09-21,2410106,Putri Ayu,Sistem Informasi Manajemen,3,Alpha
+2026-09-21,2410107,Dimas Saputra,Sistem Informasi Manajemen,3,Hadir
+2026-09-21,2410108,Nadia Rahma,Sistem Informasi Manajemen,3,Hadir
+2026-09-21,2410109,Fajar Nugroho,Sistem Informasi Manajemen,3,Sakit
+2026-09-21,2410110,Anisa Fitri,Sistem Informasi Manajemen,3,Izin
+2026-09-21,2410111,Reza Mahendra,Sistem Informasi Manajemen,3,Hadir
+2026-09-21,2410112,Salsabila Putri,Sistem Informasi Manajemen,3,Hadir
+2026-09-21,2410113,Agus Setiawan,Sistem Informasi Manajemen,3,Hadir
+2026-09-21,2410114,Intan Permata,Sistem Informasi Manajemen,3,Hadir
+2026-09-21,2410115,Yoga Prakoso,Sistem Informasi Manajemen,3,Hadir
+2026-09-21,2410116,Maya Sari,Sistem Informasi Manajemen,3,Hadir
+2026-09-21,2410117,Hendra Wijaya,Sistem Informasi Manajemen,3,Hadir
+2026-09-21,2410118,Laila Kamila,Sistem Informasi Manajemen,3,Hadir
+2026-09-21,2410119,Bagas Firmansyah,Sistem Informasi Manajemen,3,Hadir
+2026-09-21,2410120,Citra Dewanti,Sistem Informasi Manajemen,3,Hadir
+2026-09-23,2410101,Ahmad Fauzi,Basis Data,3,Hadir
+2026-09-23,2410102,Siti Nurhaliza,Basis Data,3,Hadir
+2026-09-23,2410103,Budi Santoso,Basis Data,3,Hadir
+2026-09-23,2410104,Dewi Lestari,Basis Data,3,Hadir
+2026-09-23,2410105,Rizky Pratama,Basis Data,3,Alpha
+2026-09-23,2410106,Putri Ayu,Basis Data,3,Hadir
+2026-09-23,2410107,Dimas Saputra,Basis Data,3,Hadir
+2026-09-23,2410108,Nadia Rahma,Basis Data,3,Alpha
+2026-09-23,2410109,Fajar Nugroho,Basis Data,3,Alpha
+2026-09-23,2410110,Anisa Fitri,Basis Data,3,Hadir
+2026-09-23,2410111,Reza Mahendra,Basis Data,3,Hadir
+2026-09-23,2410112,Salsabila Putri,Basis Data,3,Hadir
+2026-09-23,2410113,Agus Setiawan,Basis Data,3,Hadir
+2026-09-23,2410114,Intan Permata,Basis Data,3,Hadir
+2026-09-23,2410115,Yoga Prakoso,Basis Data,3,Hadir
+2026-09-23,2410116,Maya Sari,Basis Data,3,Hadir
+2026-09-23,2410117,Hendra Wijaya,Basis Data,3,Hadir
+2026-09-23,2410118,Laila Kamila,Basis Data,3,Hadir
+2026-09-23,2410119,Bagas Firmansyah,Basis Data,3,Hadir
+2026-09-23,2410120,Citra Dewanti,Basis Data,3,Hadir
+2026-09-25,2410101,Ahmad Fauzi,Pemrograman Web,3,Hadir
+2026-09-25,2410102,Siti Nurhaliza,Pemrograman Web,3,Hadir
+2026-09-25,2410103,Budi Santoso,Pemrograman Web,3,Hadir
+2026-09-25,2410104,Dewi Lestari,Pemrograman Web,3,Hadir
+2026-09-25,2410105,Rizky Pratama,Pemrograman Web,3,Hadir
+2026-09-25,2410106,Putri Ayu,Pemrograman Web,3,Hadir
+2026-09-25,2410107,Dimas Saputra,Pemrograman Web,3,Hadir
+2026-09-25,2410108,Nadia Rahma,Pemrograman Web,3,Hadir
+2026-09-25,2410109,Fajar Nugroho,Pemrograman Web,3,Hadir
+2026-09-25,2410110,Anisa Fitri,Pemrograman Web,3,Sakit
+2026-09-25,2410111,Reza Mahendra,Pemrograman Web,3,Hadir
+2026-09-25,2410112,Salsabila Putri,Pemrograman Web,3,Hadir
+2026-09-25,2410113,Agus Setiawan,Pemrograman Web,3,Hadir
+2026-09-25,2410114,Intan Permata,Pemrograman Web,3,Alpha
+2026-09-25,2410115,Yoga Prakoso,Pemrograman Web,3,Hadir
+2026-09-25,2410116,Maya Sari,Pemrograman Web,3,Hadir
+2026-09-25,2410117,Hendra Wijaya,Pemrograman Web,3,Hadir
+2026-09-25,2410118,Laila Kamila,Pemrograman Web,3,Sakit
+2026-09-25,2410119,Bagas Firmansyah,Pemrograman Web,3,Hadir
+2026-09-25,2410120,Citra Dewanti,Pemrograman Web,3,Alpha
+2026-09-28,2410101,Ahmad Fauzi,Sistem Informasi Manajemen,4,Hadir
+2026-09-28,2410102,Siti Nurhaliza,Sistem Informasi Manajemen,4,Hadir
+2026-09-28,2410103,Budi Santoso,Sistem Informasi Manajemen,4,Hadir
+2026-09-28,2410104,Dewi Lestari,Sistem Informasi Manajemen,4,Hadir
+2026-09-28,2410105,Rizky Pratama,Sistem Informasi Manajemen,4,Hadir
+2026-09-28,2410106,Putri Ayu,Sistem Informasi Manajemen,4,Hadir
+2026-09-28,2410107,Dimas Saputra,Sistem Informasi Manajemen,4,Hadir
+2026-09-28,2410108,Nadia Rahma,Sistem Informasi Manajemen,4,Izin
+2026-09-28,2410109,Fajar Nugroho,Sistem Informasi Manajemen,4,Hadir
+2026-09-28,2410110,Anisa Fitri,Sistem Informasi Manajemen,4,Hadir
+2026-09-28,2410111,Reza Mahendra,Sistem Informasi Manajemen,4,Hadir
+2026-09-28,2410112,Salsabila Putri,Sistem Informasi Manajemen,4,Izin
+2026-09-28,2410113,Agus Setiawan,Sistem Informasi Manajemen,4,Izin
+2026-09-28,2410114,Intan Permata,Sistem Informasi Manajemen,4,Hadir
+2026-09-28,2410115,Yoga Prakoso,Sistem Informasi Manajemen,4,Alpha
+2026-09-28,2410116,Maya Sari,Sistem Informasi Manajemen,4,Sakit
+2026-09-28,2410117,Hendra Wijaya,Sistem Informasi Manajemen,4,Hadir
+2026-09-28,2410118,Laila Kamila,Sistem Informasi Manajemen,4,Hadir
+2026-09-28,2410119,Bagas Firmansyah,Sistem Informasi Manajemen,4,Hadir
+2026-09-28,2410120,Citra Dewanti,Sistem Informasi Manajemen,4,Hadir
+2026-09-30,2410101,Ahmad Fauzi,Basis Data,4,Hadir
+2026-09-30,2410102,Siti Nurhaliza,Basis Data,4,Hadir
+2026-09-30,2410103,Budi Santoso,Basis Data,4,Hadir
+2026-09-30,2410104,Dewi Lestari,Basis Data,4,Hadir
+2026-09-30,2410105,Rizky Pratama,Basis Data,4,Hadir
+2026-09-30,2410106,Putri Ayu,Basis Data,4,Alpha
+2026-09-30,2410107,Dimas Saputra,Basis Data,4,Alpha
+2026-09-30,2410108,Nadia Rahma,Basis Data,4,Hadir
+2026-09-30,2410109,Fajar Nugroho,Basis Data,4,Alpha
+2026-09-30,2410110,Anisa Fitri,Basis Data,4,Hadir
+2026-09-30,2410111,Reza Mahendra,Basis Data,4,Hadir
+2026-09-30,2410112,Salsabila Putri,Basis Data,4,Hadir
+2026-09-30,2410113,Agus Setiawan,Basis Data,4,Hadir
+2026-09-30,2410114,Intan Permata,Basis Data,4,Hadir
+2026-09-30,2410115,Yoga Prakoso,Basis Data,4,Hadir
+2026-09-30,2410116,Maya Sari,Basis Data,4,Izin
+2026-09-30,2410117,Hendra Wijaya,Basis Data,4,Hadir
+2026-09-30,2410118,Laila Kamila,Basis Data,4,Hadir
+2026-09-30,2410119,Bagas Firmansyah,Basis Data,4,Hadir
+2026-09-30,2410120,Citra Dewanti,Basis Data,4,Alpha
+2026-10-02,2410101,Ahmad Fauzi,Pemrograman Web,4,Hadir
+2026-10-02,2410102,Siti Nurhaliza,Pemrograman Web,4,Hadir
+2026-10-02,2410103,Budi Santoso,Pemrograman Web,4,Hadir
+2026-10-02,2410104,Dewi Lestari,Pemrograman Web,4,Hadir
+2026-10-02,2410105,Rizky Pratama,Pemrograman Web,4,Alpha
+2026-10-02,2410106,Putri Ayu,Pemrograman Web,4,Hadir
+2026-10-02,2410107,Dimas Saputra,Pemrograman Web,4,Izin
+2026-10-02,2410108,Nadia Rahma,Pemrograman Web,4,Hadir
+2026-10-02,2410109,Fajar Nugroho,Pemrograman Web,4,Sakit
+2026-10-02,2410110,Anisa Fitri,Pemrograman Web,4,Hadir
+2026-10-02,2410111,Reza Mahendra,Pemrograman Web,4,Hadir
+2026-10-02,2410112,Salsabila Putri,Pemrograman Web,4,Hadir
+2026-10-02,2410113,Agus Setiawan,Pemrograman Web,4,Hadir
+2026-10-02,2410114,Intan Permata,Pemrograman Web,4,Alpha
+2026-10-02,2410115,Yoga Prakoso,Pemrograman Web,4,Hadir
+2026-10-02,2410116,Maya Sari,Pemrograman Web,4,Hadir
+2026-10-02,2410117,Hendra Wijaya,Pemrograman Web,4,Hadir
+2026-10-02,2410118,Laila Kamila,Pemrograman Web,4,Alpha
+2026-10-02,2410119,Bagas Firmansyah,Pemrograman Web,4,Alpha
+2026-10-02,2410120,Citra Dewanti,Pemrograman Web,4,Hadir
+2026-10-05,2410101,Ahmad Fauzi,Sistem Informasi Manajemen,5,Hadir
+2026-10-05,2410102,Siti Nurhaliza,Sistem Informasi Manajemen,5,Hadir
+2026-10-05,2410103,Budi Santoso,Sistem Informasi Manajemen,5,Alpha
+2026-10-05,2410104,Dewi Lestari,Sistem Informasi Manajemen,5,Hadir
+2026-10-05,2410105,Rizky Pratama,Sistem Informasi Manajemen,5,Alpha
+2026-10-05,2410106,Putri Ayu,Sistem Informasi Manajemen,5,Hadir
+2026-10-05,2410107,Dimas Saputra,Sistem Informasi Manajemen,5,Hadir
+2026-10-05,2410108,Nadia Rahma,Sistem Informasi Manajemen,5,Izin
+2026-10-05,2410109,Fajar Nugroho,Sistem Informasi Manajemen,5,Hadir
+2026-10-05,2410110,Anisa Fitri,Sistem Informasi Manajemen,5,Hadir
+2026-10-05,2410111,Reza Mahendra,Sistem Informasi Manajemen,5,Hadir
+2026-10-05,2410112,Salsabila Putri,Sistem Informasi Manajemen,5,Sakit
+2026-10-05,2410113,Agus Setiawan,Sistem Informasi Manajemen,5,Hadir
+2026-10-05,2410114,Intan Permata,Sistem Informasi Manajemen,5,Alpha
+2026-10-05,2410115,Yoga Prakoso,Sistem Informasi Manajemen,5,Hadir
+2026-10-05,2410116,Maya Sari,Sistem Informasi Manajemen,5,Hadir
+2026-10-05,2410117,Hendra Wijaya,Sistem Informasi Manajemen,5,Hadir
+2026-10-05,2410118,Laila Kamila,Sistem Informasi Manajemen,5,Hadir
+2026-10-05,2410119,Bagas Firmansyah,Sistem Informasi Manajemen,5,Hadir
+2026-10-05,2410120,Citra Dewanti,Sistem Informasi Manajemen,5,Hadir
+2026-10-07,2410101,Ahmad Fauzi,Basis Data,5,Hadir
+2026-10-07,2410102,Siti Nurhaliza,Basis Data,5,Hadir
+2026-10-07,2410103,Budi Santoso,Basis Data,5,Hadir
+2026-10-07,2410104,Dewi Lestari,Basis Data,5,Hadir
+2026-10-07,2410105,Rizky Pratama,Basis Data,5,Hadir
+2026-10-07,2410106,Putri Ayu,Basis Data,5,Hadir
+2026-10-07,2410107,Dimas Saputra,Basis Data,5,Hadir
+2026-10-07,2410108,Nadia Rahma,Basis Data,5,Izin
+2026-10-07,2410109,Fajar Nugroho,Basis Data,5,Sakit
+2026-10-07,2410110,Anisa Fitri,Basis Data,5,Hadir
+2026-10-07,2410111,Reza Mahendra,Basis Data,5,Hadir
+2026-10-07,2410112,Salsabila Putri,Basis Data,5,Hadir
+2026-10-07,2410113,Agus Setiawan,Basis Data,5,Sakit
+2026-10-07,2410114,Intan Permata,Basis Data,5,Hadir
+2026-10-07,2410115,Yoga Prakoso,Basis Data,5,Hadir
+2026-10-07,2410116,Maya Sari,Basis Data,5,Hadir
+2026-10-07,2410117,Hendra Wijaya,Basis Data,5,Hadir
+2026-10-07,2410118,Laila Kamila,Basis Data,5,Alpha
+2026-10-07,2410119,Bagas Firmansyah,Basis Data,5,Izin
+2026-10-07,2410120,Citra Dewanti,Basis Data,5,Hadir
+2026-10-09,2410101,Ahmad Fauzi,Pemrograman Web,5,Hadir
+2026-10-09,2410102,Siti Nurhaliza,Pemrograman Web,5,Hadir
+2026-10-09,2410103,Budi Santoso,Pemrograman Web,5,Alpha
+2026-10-09,2410104,Dewi Lestari,Pemrograman Web,5,Hadir
+2026-10-09,2410105,Rizky Pratama,Pemrograman Web,5,Hadir
+2026-10-09,2410106,Putri Ayu,Pemrograman Web,5,Hadir
+2026-10-09,2410107,Dimas Saputra,Pemrograman Web,5,Hadir
+2026-10-09,2410108,Nadia Rahma,Pemrograman Web,5,Sakit
+2026-10-09,2410109,Fajar Nugroho,Pemrograman Web,5,Hadir
+2026-10-09,2410110,Anisa Fitri,Pemrograman Web,5,Hadir
+2026-10-09,2410111,Reza Mahendra,Pemrograman Web,5,Hadir
+2026-10-09,2410112,Salsabila Putri,Pemrograman Web,5,Hadir
+2026-10-09,2410113,Agus Setiawan,Pemrograman Web,5,Hadir
+2026-10-09,2410114,Intan Permata,Pemrograman Web,5,Hadir
+2026-10-09,2410115,Yoga Prakoso,Pemrograman Web,5,Hadir
+2026-10-09,2410116,Maya Sari,Pemrograman Web,5,Hadir
+2026-10-09,2410117,Hendra Wijaya,Pemrograman Web,5,Hadir
+2026-10-09,2410118,Laila Kamila,Pemrograman Web,5,Alpha
+2026-10-09,2410119,Bagas Firmansyah,Pemrograman Web,5,Hadir
+2026-10-09,2410120,Citra Dewanti,Pemrograman Web,5,Hadir
+2026-10-12,2410101,Ahmad Fauzi,Sistem Informasi Manajemen,6,Hadir
+2026-10-12,2410102,Siti Nurhaliza,Sistem Informasi Manajemen,6,Izin
+2026-10-12,2410103,Budi Santoso,Sistem Informasi Manajemen,6,Hadir
+2026-10-12,2410104,Dewi Lestari,Sistem Informasi Manajemen,6,Hadir
+2026-10-12,2410105,Rizky Pratama,Sistem Informasi Manajemen,6,Hadir
+2026-10-12,2410106,Putri Ayu,Sistem Informasi Manajemen,6,Hadir
+2026-10-12,2410107,Dimas Saputra,Sistem Informasi Manajemen,6,Hadir
+2026-10-12,2410108,Nadia Rahma,Sistem Informasi Manajemen,6,Sakit
+2026-10-12,2410109,Fajar Nugroho,Sistem Informasi Manajemen,6,Hadir
+2026-10-12,2410110,Anisa Fitri,Sistem Informasi Manajemen,6,Alpha
+2026-10-12,2410111,Reza Mahendra,Sistem Informasi Manajemen,6,Hadir
+2026-10-12,2410112,Salsabila Putri,Sistem Informasi Manajemen,6,Izin
+2026-10-12,2410113,Agus Setiawan,Sistem Informasi Manajemen,6,Hadir
+2026-10-12,2410114,Intan Permata,Sistem Informasi Manajemen,6,Alpha
+2026-10-12,2410115,Yoga Prakoso,Sistem Informasi Manajemen,6,Alpha
+2026-10-12,2410116,Maya Sari,Sistem Informasi Manajemen,6,Alpha
+2026-10-12,2410117,Hendra Wijaya,Sistem Informasi Manajemen,6,Hadir
+2026-10-12,2410118,Laila Kamila,Sistem Informasi Manajemen,6,Sakit
+2026-10-12,2410119,Bagas Firmansyah,Sistem Informasi Manajemen,6,Hadir
+2026-10-12,2410120,Citra Dewanti,Sistem Informasi Manajemen,6,Izin
+2026-10-14,2410101,Ahmad Fauzi,Basis Data,6,Hadir
+2026-10-14,2410102,Siti Nurhaliza,Basis Data,6,Sakit
+2026-10-14,2410103,Budi Santoso,Basis Data,6,Hadir
+2026-10-14,2410104,Dewi Lestari,Basis Data,6,Hadir
+2026-10-14,2410105,Rizky Pratama,Basis Data,6,Hadir
+2026-10-14,2410106,Putri Ayu,Basis Data,6,Hadir
+2026-10-14,2410107,Dimas Saputra,Basis Data,6,Hadir
+2026-10-14,2410108,Nadia Rahma,Basis Data,6,Sakit
+2026-10-14,2410109,Fajar Nugroho,Basis Data,6,Hadir
+2026-10-14,2410110,Anisa Fitri,Basis Data,6,Hadir
+2026-10-14,2410111,Reza Mahendra,Basis Data,6,Hadir
+2026-10-14,2410112,Salsabila Putri,Basis Data,6,Hadir
+2026-10-14,2410113,Agus Setiawan,Basis Data,6,Hadir
+2026-10-14,2410114,Intan Permata,Basis Data,6,Hadir
+2026-10-14,2410115,Yoga Prakoso,Basis Data,6,Hadir
+2026-10-14,2410116,Maya Sari,Basis Data,6,Hadir
+2026-10-14,2410117,Hendra Wijaya,Basis Data,6,Hadir
+2026-10-14,2410118,Laila Kamila,Basis Data,6,Hadir
+2026-10-14,2410119,Bagas Firmansyah,Basis Data,6,Alpha
+2026-10-14,2410120,Citra Dewanti,Basis Data,6,Sakit
+2026-10-16,2410101,Ahmad Fauzi,Pemrograman Web,6,Hadir
+2026-10-16,2410102,Siti Nurhaliza,Pemrograman Web,6,Hadir
+2026-10-16,2410103,Budi Santoso,Pemrograman Web,6,Hadir
+2026-10-16,2410104,Dewi Lestari,Pemrograman Web,6,Hadir
+2026-10-16,2410105,Rizky Pratama,Pemrograman Web,6,Hadir
+2026-10-16,2410106,Putri Ayu,Pemrograman Web,6,Hadir
+2026-10-16,2410107,Dimas Saputra,Pemrograman Web,6,Hadir
+2026-10-16,2410108,Nadia Rahma,Pemrograman Web,6,Hadir
+2026-10-16,2410109,Fajar Nugroho,Pemrograman Web,6,Izin
+2026-10-16,2410110,Anisa Fitri,Pemrograman Web,6,Hadir
+2026-10-16,2410111,Reza Mahendra,Pemrograman Web,6,Hadir
+2026-10-16,2410112,Salsabila Putri,Pemrograman Web,6,Hadir
+2026-10-16,2410113,Agus Setiawan,Pemrograman Web,6,Hadir
+2026-10-16,2410114,Intan Permata,Pemrograman Web,6,Izin
+2026-10-16,2410115,Yoga Prakoso,Pemrograman Web,6,Hadir
+2026-10-16,2410116,Maya Sari,Pemrograman Web,6,Izin
+2026-10-16,2410117,Hendra Wijaya,Pemrograman Web,6,Hadir
+2026-10-16,2410118,Laila Kamila,Pemrograman Web,6,Hadir
+2026-10-16,2410119,Bagas Firmansyah,Pemrograman Web,6,Hadir
+2026-10-16,2410120,Citra Dewanti,Pemrograman Web,6,Hadir
+2026-10-19,2410101,Ahmad Fauzi,Sistem Informasi Manajemen,7,Hadir
+2026-10-19,2410102,Siti Nurhaliza,Sistem Informasi Manajemen,7,Hadir
+2026-10-19,2410103,Budi Santoso,Sistem Informasi Manajemen,7,Hadir
+2026-10-19,2410104,Dewi Lestari,Sistem Informasi Manajemen,7,Hadir
+2026-10-19,2410105,Rizky Pratama,Sistem Informasi Manajemen,7,Hadir
+2026-10-19,2410106,Putri Ayu,Sistem Informasi Manajemen,7,Hadir
+2026-10-19,2410107,Dimas Saputra,Sistem Informasi Manajemen,7,Hadir
+2026-10-19,2410108,Nadia Rahma,Sistem Informasi Manajemen,7,Hadir
+2026-10-19,2410109,Fajar Nugroho,Sistem Informasi Manajemen,7,Alpha
+2026-10-19,2410110,Anisa Fitri,Sistem Informasi Manajemen,7,Hadir
+2026-10-19,2410111,Reza Mahendra,Sistem Informasi Manajemen,7,Hadir
+2026-10-19,2410112,Salsabila Putri,Sistem Informasi Manajemen,7,Hadir
+2026-10-19,2410113,Agus Setiawan,Sistem Informasi Manajemen,7,Hadir
+2026-10-19,2410114,Intan Permata,Sistem Informasi Manajemen,7,Alpha
+2026-10-19,2410115,Yoga Prakoso,Sistem Informasi Manajemen,7,Hadir
+2026-10-19,2410116,Maya Sari,Sistem Informasi Manajemen,7,Sakit
+2026-10-19,2410117,Hendra Wijaya,Sistem Informasi Manajemen,7,Hadir
+2026-10-19,2410118,Laila Kamila,Sistem Informasi Manajemen,7,Hadir
+2026-10-19,2410119,Bagas Firmansyah,Sistem Informasi Manajemen,7,Hadir
+2026-10-19,2410120,Citra Dewanti,Sistem Informasi Manajemen,7,Alpha
+2026-10-21,2410101,Ahmad Fauzi,Basis Data,7,Hadir
+2026-10-21,2410102,Siti Nurhaliza,Basis Data,7,Hadir
+2026-10-21,2410103,Budi Santoso,Basis Data,7,Hadir
+2026-10-21,2410104,Dewi Lestari,Basis Data,7,Alpha
+2026-10-21,2410105,Rizky Pratama,Basis Data,7,Hadir
+2026-10-21,2410106,Putri Ayu,Basis Data,7,Hadir
+2026-10-21,2410107,Dimas Saputra,Basis Data,7,Hadir
+2026-10-21,2410108,Nadia Rahma,Basis Data,7,Izin
+2026-10-21,2410109,Fajar Nugroho,Basis Data,7,Hadir
+2026-10-21,2410110,Anisa Fitri,Basis Data,7,Hadir
+2026-10-21,2410111,Reza Mahendra,Basis Data,7,Hadir
+2026-10-21,2410112,Salsabila Putri,Basis Data,7,Hadir
+2026-10-21,2410113,Agus Setiawan,Basis Data,7,Hadir
+2026-10-21,2410114,Intan Permata,Basis Data,7,Hadir
+2026-10-21,2410115,Yoga Prakoso,Basis Data,7,Hadir
+2026-10-21,2410116,Maya Sari,Basis Data,7,Hadir
+2026-10-21,2410117,Hendra Wijaya,Basis Data,7,Hadir
+2026-10-21,2410118,Laila Kamila,Basis Data,7,Sakit
+2026-10-21,2410119,Bagas Firmansyah,Basis Data,7,Hadir
+2026-10-21,2410120,Citra Dewanti,Basis Data,7,Hadir
+2026-10-23,2410101,Ahmad Fauzi,Pemrograman Web,7,Hadir
+2026-10-23,2410102,Siti Nurhaliza,Pemrograman Web,7,Hadir
+2026-10-23,2410103,Budi Santoso,Pemrograman Web,7,Hadir
+2026-10-23,2410104,Dewi Lestari,Pemrograman Web,7,Hadir
+2026-10-23,2410105,Rizky Pratama,Pemrograman Web,7,Hadir
+2026-10-23,2410106,Putri Ayu,Pemrograman Web,7,Hadir
+2026-10-23,2410107,Dimas Saputra,Pemrograman Web,7,Hadir
+2026-10-23,2410108,Nadia Rahma,Pemrograman Web,7,Hadir
+2026-10-23,2410109,Fajar Nugroho,Pemrograman Web,7,Hadir
+2026-10-23,2410110,Anisa Fitri,Pemrograman Web,7,Hadir
+2026-10-23,2410111,Reza Mahendra,Pemrograman Web,7,Hadir
+2026-10-23,2410112,Salsabila Putri,Pemrograman Web,7,Hadir
+2026-10-23,2410113,Agus Setiawan,Pemrograman Web,7,Izin
+2026-10-23,2410114,Intan Permata,Pemrograman Web,7,Hadir
+2026-10-23,2410115,Yoga Prakoso,Pemrograman Web,7,Hadir
+2026-10-23,2410116,Maya Sari,Pemrograman Web,7,Izin
+2026-10-23,2410117,Hendra Wijaya,Pemrograman Web,7,Hadir
+2026-10-23,2410118,Laila Kamila,Pemrograman Web,7,Alpha
+2026-10-23,2410119,Bagas Firmansyah,Pemrograman Web,7,Hadir
+2026-10-23,2410120,Citra Dewanti,Pemrograman Web,7,Izin
+2026-10-26,2410101,Ahmad Fauzi,Sistem Informasi Manajemen,8,Hadir
+2026-10-26,2410102,Siti Nurhaliza,Sistem Informasi Manajemen,8,Hadir
+2026-10-26,2410103,Budi Santoso,Sistem Informasi Manajemen,8,Hadir
+2026-10-26,2410104,Dewi Lestari,Sistem Informasi Manajemen,8,Hadir
+2026-10-26,2410105,Rizky Pratama,Sistem Informasi Manajemen,8,Hadir
+2026-10-26,2410106,Putri Ayu,Sistem Informasi Manajemen,8,Hadir
+2026-10-26,2410107,Dimas Saputra,Sistem Informasi Manajemen,8,Hadir
+2026-10-26,2410108,Nadia Rahma,Sistem Informasi Manajemen,8,Hadir
+2026-10-26,2410109,Fajar Nugroho,Sistem Informasi Manajemen,8,Hadir
+2026-10-26,2410110,Anisa Fitri,Sistem Informasi Manajemen,8,Izin
+2026-10-26,2410111,Reza Mahendra,Sistem Informasi Manajemen,8,Hadir
+2026-10-26,2410112,Salsabila Putri,Sistem Informasi Manajemen,8,Hadir
+2026-10-26,2410113,Agus Setiawan,Sistem Informasi Manajemen,8,Alpha
+2026-10-26,2410114,Intan Permata,Sistem Informasi Manajemen,8,Sakit
+2026-10-26,2410115,Yoga Prakoso,Sistem Informasi Manajemen,8,Hadir
+2026-10-26,2410116,Maya Sari,Sistem Informasi Manajemen,8,Izin
+2026-10-26,2410117,Hendra Wijaya,Sistem Informasi Manajemen,8,Hadir
+2026-10-26,2410118,Laila Kamila,Sistem Informasi Manajemen,8,Hadir
+2026-10-26,2410119,Bagas Firmansyah,Sistem Informasi Manajemen,8,Hadir
+2026-10-26,2410120,Citra Dewanti,Sistem Informasi Manajemen,8,Sakit
+2026-10-28,2410101,Ahmad Fauzi,Basis Data,8,Hadir
+2026-10-28,2410102,Siti Nurhaliza,Basis Data,8,Hadir
+2026-10-28,2410103,Budi Santoso,Basis Data,8,Hadir
+2026-10-28,2410104,Dewi Lestari,Basis Data,8,Sakit
+2026-10-28,2410105,Rizky Pratama,Basis Data,8,Hadir
+2026-10-28,2410106,Putri Ayu,Basis Data,8,Hadir
+2026-10-28,2410107,Dimas Saputra,Basis Data,8,Hadir
+2026-10-28,2410108,Nadia Rahma,Basis Data,8,Hadir
+2026-10-28,2410109,Fajar Nugroho,Basis Data,8,Hadir
+2026-10-28,2410110,Anisa Fitri,Basis Data,8,Hadir
+2026-10-28,2410111,Reza Mahendra,Basis Data,8,Hadir
+2026-10-28,2410112,Salsabila Putri,Basis Data,8,Hadir
+2026-10-28,2410113,Agus Setiawan,Basis Data,8,Alpha
+2026-10-28,2410114,Intan Permata,Basis Data,8,Alpha
+2026-10-28,2410115,Yoga Prakoso,Basis Data,8,Sakit
+2026-10-28,2410116,Maya Sari,Basis Data,8,Hadir
+2026-10-28,2410117,Hendra Wijaya,Basis Data,8,Hadir
+2026-10-28,2410118,Laila Kamila,Basis Data,8,Hadir
+2026-10-28,2410119,Bagas Firmansyah,Basis Data,8,Hadir
+2026-10-28,2410120,Citra Dewanti,Basis Data,8,Hadir
+2026-10-30,2410101,Ahmad Fauzi,Pemrograman Web,8,Hadir
+2026-10-30,2410102,Siti Nurhaliza,Pemrograman Web,8,Hadir
+2026-10-30,2410103,Budi Santoso,Pemrograman Web,8,Hadir
+2026-10-30,2410104,Dewi Lestari,Pemrograman Web,8,Hadir
+2026-10-30,2410105,Rizky Pratama,Pemrograman Web,8,Hadir
+2026-10-30,2410106,Putri Ayu,Pemrograman Web,8,Hadir
+2026-10-30,2410107,Dimas Saputra,Pemrograman Web,8,Hadir
+2026-10-30,2410108,Nadia Rahma,Pemrograman Web,8,Hadir
+2026-10-30,2410109,Fajar Nugroho,Pemrograman Web,8,Hadir
+2026-10-30,2410110,Anisa Fitri,Pemrograman Web,8,Hadir
+2026-10-30,2410111,Reza Mahendra,Pemrograman Web,8,Hadir
+2026-10-30,2410112,Salsabila Putri,Pemrograman Web,8,Hadir
+2026-10-30,2410113,Agus Setiawan,Pemrograman Web,8,Hadir
+2026-10-30,2410114,Intan Permata,Pemrograman Web,8,Hadir
+2026-10-30,2410115,Yoga Prakoso,Pemrograman Web,8,Hadir
+2026-10-30,2410116,Maya Sari,Pemrograman Web,8,Alpha
+2026-10-30,2410117,Hendra Wijaya,Pemrograman Web,8,Hadir
+2026-10-30,2410118,Laila Kamila,Pemrograman Web,8,Hadir
+2026-10-30,2410119,Bagas Firmansyah,Pemrograman Web,8,Hadir
+2026-10-30,2410120,Citra Dewanti,Pemrograman Web,8,Hadir
